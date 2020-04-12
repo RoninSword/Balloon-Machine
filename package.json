@@ -1,0 +1,16 @@
+{
+  "name": "durham_3200_test1-master",
+  "version": "1.0.0",
+  "description": "test for durham 3200 for the fall of 2019",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
